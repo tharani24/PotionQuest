@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1009512067188",
+    "firebase_url": "https://potionquest-17d95-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "potionquest-17d95",
+    "storage_bucket": "potionquest-17d95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009512067188:android:f2fa0ce556bcfd825aa121",
+        "android_client_info": {
+          "package_name": "com.Default.PotionQuest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBown00iIpukPcvwcf2VfGtqUF_x7KcdcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
